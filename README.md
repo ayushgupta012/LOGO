@@ -1,8 +1,8 @@
 
 <div id="top"></div>
             
-[![MIT License][license-shield]](https://github.com/Atugriceri/e-commerce-react-app/blob/main/LICENSE)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/alpertugriceri/)
+[![MIT License][license-shield]](https://github.com/ayushgupta012/ayush-gupta-ecommerce/blob/main/LICENSE)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ayush-gupta-5bb8a3220/)
 
 
 <br />
