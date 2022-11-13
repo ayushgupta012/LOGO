@@ -55,8 +55,7 @@ The project was developed in conjunction with React.js, including Context, Hooks
 
 * [React.js](https://reactjs.org/)
 * [Tailwind CSS](https://tailwindui.com/)
-* [Axios](https://www.npmjs.com/package/axios)
-* [Fake Store Api](https://fakestoreapi.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -107,18 +106,12 @@ You can list the products by clicking on the categories, add and remove the prod
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ## Contact
 
-Alper Tugriçeri - [Linkedin](https://www.linkedin.com/in/alpertugriceri/) - alpertugriceri@gmail.com
+Ayush Gupta - [Linkedin](https://www.linkedin.com/in/ayush-gupta-5bb8a3220/) - luckyguptaking2002@gmail.com@
 
-Project Link: [https://github.com/Atugriceri/e-commerce-react-app](https://github.com/Atugriceri/e-commerce-react-app)
+Project Link: [https://github.com/ayushgupta012/ayush-gupta-ecommerce](https://github.com/ayushgupta012/ayush-gupta-ecommerce)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
