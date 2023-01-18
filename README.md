@@ -109,7 +109,7 @@ You can list the products by clicking on the categories, add and remove the prod
 
 Ayush Gupta - [Linkedin](https://www.linkedin.com/in/ayush-gupta-5bb8a3220/) - luckyguptaking2002@gmail.com
 
-Project Link: [https://github.com/ayushgupta012/ayush-gupta-ecommerce](https://github.com/ayushgupta012/LOGO)
+Project Link: [https://github.com/ayushgupta012/LOGO](https://github.com/ayushgupta012/LOGO)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
